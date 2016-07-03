@@ -1,0 +1,4 @@
+.tooltip {
+    /* keep tooltips from blocking interactions */
+    pointer-events: none;
+}
